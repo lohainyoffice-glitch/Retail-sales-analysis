@@ -142,7 +142,7 @@ These recommendations are starting points for further analysis; additional infor
 
 **Lohainy Cristina Santos Silva**
 
-Aspiring Data Analyst | Retail Analytics | Python | SQL | Tableau
+Data Analyst | Retail Analytics | Python | SQL | Tableau
 
 This project is part of my data analytics portfolio, demonstrating my ability to explore datasets, analyze business performance, communicate insights, and build data visualizations.
 
