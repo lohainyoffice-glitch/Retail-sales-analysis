@@ -90,7 +90,7 @@ Bread and Lipstick were the highest-revenue products, generating approximately â
 
 ## Tableau Dashboard
 
-**Interactive dashboard:** [View the Retail Sales Performance Dashboard](ADD_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+**Interactive dashboard:** [View the Retail Sales Performance Dashboard][(ADD_YOUR_TABLEAU_PUBLIC_LINK_HERE)](https://public.tableau.com/views/RetailSalesPerformanceDashboard_17924510324240/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The dashboard includes:
 
